@@ -1,2 +1,2 @@
-changes were made to bash/alx and bash/school
+discovered another error so i had to fix it
 
