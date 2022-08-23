@@ -1,2 +1,3 @@
-newer discovered errors
+error was noticed and modified
+
 
